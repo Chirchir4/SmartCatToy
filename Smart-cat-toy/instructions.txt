@@ -1,0 +1,5 @@
+Here are instructions to run the website
+1.Open Terminal and navigate to your project directory with "cd /Downloads/smart-cat-toy"
+2.Install dependencies with the command "npm install" 
+3.Start the development server with the command "npm run dev" .
+4.Access your app at provided url e.g  http://localhost:5173.
